@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoeoeonju&show_icons=true&theme=graywhite) &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lh44)](https://solved.ac/lh44)
