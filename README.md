@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=164C64&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Yeonju's+Github" alt="Typing SVG" /></a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoeoeonju&show_icons=true&theme=graywhite) &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lh44)](https://solved.ac/lh44)
