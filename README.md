@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://yeonju's github.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoeoeonju&show_icons=true&theme=graywhite) &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lh44)](https://solved.ac/lh44)
